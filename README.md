@@ -12,7 +12,7 @@ Purifier, a powerful and fast way to clean all your tokens. You'll save a lot of
 
 5. Enjoy!
 ## Todo
-- [x] Proxy supported HTTP/s [ip:port][user:pass@ip:port] formats  
+- [x] Proxy supported HTTP/s [ip:port][user:pass@ip:port] formats   
 - [x] Token formats supported [mail:pass:token][token]
 - [x] Leave and delete guilds 
 - [x] Close DMs

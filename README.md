@@ -19,5 +19,5 @@ Purifier, a powerful and fast way to clean all your tokens. You'll save a lot of
 - [x] Remove relations and pending requests  
 - [x] Remove bio/status  
 - [ ] Remove avatar  
-## Preview  
+## Preview   
 ![unknown](https://user-images.githubusercontent.com/93849730/181318654-350552ad-c330-4b3a-980b-e10b1d59a0e5.png)  

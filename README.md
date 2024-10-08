@@ -16,7 +16,7 @@ Purifier, a powerful and fast way to clean all your tokens. You'll save a lot of
 - [x] Token formats supported [mail:pass:token][token] 
 - [x] Leave and delete guilds   
 - [x] Close DMs
-- [x] Remove relations and pending requests
+- [x] Remove relations and pending requests 
 - [x] Remove bio/status 
 - [ ] Remove avatar
 ## Preview 

@@ -11,7 +11,7 @@ Purifier, a powerful and fast way to clean all your tokens. You'll save a lot of
 4. Go in the extracted folder and open the start.bat file  
  
 5. Enjoy!  
-## Todo 
+## Todo  
 - [x] Proxy supported HTTP/s [ip:port][user:pass@ip:port] formats      
 - [x] Token formats supported [mail:pass:token][token]    
 - [x] Leave and delete guilds        

@@ -2,7 +2,7 @@
 Purifier, a powerful and fast way to clean all your tokens. You'll save a lot of money using this cleaner, enjoy ‎😃  
 # Guide on how to use these tool    
   
-1. Install Python from   
+1. Install Python from    
       
 2. Download the repo as a ZIP    
   
